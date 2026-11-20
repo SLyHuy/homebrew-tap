@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "skey" do
-  version "0.2.0"
-  sha256 "3669225eeffca79a8f1a215dae66b3f984d1c529c09ab55f123353b7eb3cdaaf"
+  version "0.2.1"
+  sha256 "62a667e9790d11f566e496517ae0315b7db1e0657ed20fc4b4c325579dd6ea1a"
 
   url "https://github.com/SLyHuy/SKey/releases/download/v#{version}/SKey-#{version}.dmg"
   name "SKey"
