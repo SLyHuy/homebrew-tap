@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 cask "s-display" do
-  version "0.1.1"
-  sha256 "4ec9460d81ac9bababe6ac92bfca8d2ac36ec375f580b8b7c05e010344b4e9be"
+  version "0.2.0"
+  sha256 "795d68e4ef8aabd8973b7f8cc4c1627fdaf65f982321ea51aa0cbd00bd0e7d59"
 
   url "https://github.com/SLyHuy/S-Display/releases/download/v#{version}/S-Display-#{version}.dmg"
   name "S-Display"
